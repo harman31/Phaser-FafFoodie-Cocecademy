@@ -1,2 +1,2 @@
-# Phaser-FafFoodie-Cocecademy
+# Phaser-FastFoodie-Cocecademy
 Codecademy Phaser.js Capstone
